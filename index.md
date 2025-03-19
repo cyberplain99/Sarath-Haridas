@@ -19,9 +19,9 @@
             <ul>
                 <li>Security Architecture</li>
                 <li>Vulnerability Management</li>
-                <li>Frameworks & Standards - NIST, ISO & PCI </li>
                 <li>Network Security</li>
                 <li>Cloud Security (AWS, Azure, GCP)</li>
+                <li>Frameworks & Standards - NIST, ISO & PCI </li>
                 <li>OT Security</li>
             </ul>
         </section>
