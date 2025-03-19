@@ -36,7 +36,7 @@
         </section>
         <section class="contact">
             <h2>Contact</h2>
-            <p>Connect with me on <a href="[https://www.linkedin.com/in/sarath-haridas-cissp-87122147]" target="_blank">LinkedIn</a></p>
+            <p>Connect with me on @ <a href="https://www.linkedin.com/in/sarath-haridas-cissp-87122147" target="_blank">LinkedIn</a></p>
             <p>Email: sarath.haridas@gmail.com</p>
         </section>
     </div>
