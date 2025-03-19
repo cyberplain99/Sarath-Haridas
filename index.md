@@ -42,8 +42,8 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p>Security Architect | Cloud Security | Vulnerability Management</p>
+        <h1>Sarath HAaridas</h1>
+        <p>Security Architect | Cloud Security | Vulnerability Management | Network Security</p>
     </header>
     <div class="container">
         <section class="about">
