@@ -37,7 +37,7 @@
         <section class="contact">
             <h2>Contact</h2>
             <p>Connect with me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a></p>
-            <p>Email: your.email@example.com</p>
+            <p>Email: sarath.haridas@gmail.com</p>
         </section>
     </div>
 </body>
