@@ -1,60 +1,79 @@
-Sarath Haridas - Cybersecurity Portfolio
-
-Professional Summary
-Results-driven Security Architect with extensive experience in security architecture, vulnerability management, and cloud security. Proven expertise in risk assessment, security frameworks (ISO, NIST-CSF, CIS), and incident response. Adept at securing on-prem and cloud environments (AWS, GCP), managing large-scale security programs, and leading security audits and compliance initiatives.
-
-Core Skills & Expertise
-•	Security Architecture & Network Security
-•	Vulnerability Management & Risk Assessment
-•	Cloud Security (AWS, GCP)
-•	Incident Response & Digital Forensics
-•	Security Frameworks (ISO, NIST-CSF, CIS)
-•	Firewall & VPN Implementation (Palo Alto, Checkpoint, Fortinet, Cisco ASA)
-•	Security Operations & Compliance (ISO Audits, SOC2)
-•	Security Posture Management & Attack Surface Reduction
-
-Featured Projects & Case Studies
-1. Enterprise Vulnerability Management Program
-•	Led vulnerability management for 30,000+ assets across on-prem and cloud environments.
-•	Developed a vulnerability management policy and standards based on ISO, NIST-CSF, and CIS controls.
-•	Implemented Rapid7 tools, reducing the attack surface and enhancing security posture.
-•	Established KPIs for vulnerability management to track and mitigate risks effectively.
-2. Secure Cloud Architecture for AWS Environments
-•	Designed and deployed secure AWS architectures using firewalls, WAF, and security automation.
-•	Led ISO audits for cloud infrastructure, ensuring compliance with regulatory frameworks.
-•	Improved AWS security posture by implementing GuardDuty, AWS Security Hub, and IAM best practices.
-3. SD-WAN Security & Firewall Optimization
-•	Designed and implemented Skybox Continuous Exposure Management Platform for automated firewall rule optimization.
-•	Led SD-WAN firewall deployments across 200+ global sites, improving network security.
-•	Provided expertise on Fortinet, Palo Alto, Checkpoint, Cisco ASA, and Radware WAF.
-4. Threat Intelligence & Incident Response
-•	Conducted threat intelligence assessments via OSINT to identify risks and emerging threats.
-•	Developed technical recovery procedures for security devices and led incident response exercises.
-•	Provided training to stakeholders on security best practices and threat mitigation strategies.
-
-Certifications
-•	Certified Information Systems Security Professional (CISSP)
-•	AWS Certified Solutions Architect – Associate
-•	Palo Alto Certified Network Security Engineer (PCNSE)
-•	CompTIA Security+ Certification
-•	Google Cloud Digital Leader (Google CDL)
-•	Zscaler Zero Trust Certified Architect (ZTCA)
-
-Technical Skills
-•	Firewalls & VPNs: Fortinet, Palo Alto, Checkpoint, Cisco ASA
-•	Cloud Security: AWS, GCP, Azure
-•	Security Tools: Rapid7, Proxies, Skybox, Acalvio Deception, Radware DDoS
-•	SIEM & Threat Intelligence: Splunk, Rapid7 IDR, & OSINT
-•	Compliance & Frameworks: ISO 27001, NIST-CSF & RMF, CIS Controls
-
-Blog & Thought Leadership
-I share insights on cybersecurity trends, best practices, and research. Here are some of my latest blog posts:
-•	Understanding CVSS, SSVC, and EPSS in Vulnerability Management
-•	OT Monitoring
-
-Contact Information
-📍 Kanata, ON
-📧 sarath.haridas@gmail.com
-📞 613-324-1352
-🔗 LinkedIn Profile
-🔗 GitHub Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Cybersecurity Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #222;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            background: #fff;
+            margin: 20px 0;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #222;
+        }
+        .contact a {
+            color: #0073b1;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Security Architect | Cloud Security | Vulnerability Management</p>
+    </header>
+    <div class="container">
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Experienced Security Architect with expertise in cloud security, vulnerability management, and designing secure infrastructures. Passionate about protecting digital assets and ensuring compliance with industry standards.</p>
+        </section>
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Security Architecture</li>
+                <li>Cloud Security (AWS, Azure, GCP)</li>
+                <li>Threat Modeling</li>
+                <li>Vulnerability Management</li>
+                <li>Zero Trust Architecture</li>
+            </ul>
+        </section>
+        <section class="projects">
+            <h2>Projects</h2>
+            <p>Details of key projects showcasing your expertise:</p>
+            <ul>
+                <li>Cloud Security Hardening for Enterprise X</li>
+                <li>Vulnerability Management Framework Implementation</li>
+                <li>Zero Trust Security Model for Financial Institution</li>
+            </ul>
+        </section>
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Connect with me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a></p>
+            <p>Email: your.email@example.com</p>
+        </section>
+    </div>
+</body>
+</html>
