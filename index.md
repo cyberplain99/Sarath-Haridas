@@ -42,7 +42,7 @@
 </head>
 <body>
     <header>
-        <h1>Sarath HAaridas</h1>
+        <h1>Sarath Haridas</h1>
         <p>Security Architect | Cloud Security | Vulnerability Management | Network Security</p>
     </header>
     <div class="container">
