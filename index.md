@@ -54,10 +54,10 @@
             <h2>Skills</h2>
             <ul>
                 <li>Security Architecture</li>
-                <li>Cloud Security (AWS, Azure, GCP)</li>
-                <li>Threat Modeling</li>
                 <li>Vulnerability Management</li>
-                <li>Zero Trust Architecture</li>
+                <li>Network Security</li>
+                <li>Cloud Security (AWS, Azure, GCP)</li>
+                <li>OT Security</li>
             </ul>
         </section>
         <section class="projects">
