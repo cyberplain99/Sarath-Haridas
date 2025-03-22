@@ -74,6 +74,3 @@ Passionate about continuous learning and applying best practices to stay ahead i
             <p>Location: Ottawa, ON </p>
             <p>Find my resume @ <a href="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/SARATH_HARIDAS_Resume.pdf" target="_blank">Sarath_Haridas</a></p>
         </section>
-    </div>
-</body>
-</html>
