@@ -53,6 +53,7 @@ Skilled in conducting risk assessments, implementing security controls, and deli
         <section class="Contact">
             <h2>Contact</h2>
             <p>Connect with me @ <a href="https://www.linkedin.com/in/sarath-haridas-cissp-87122147" target="_blank">LinkedIn</a></p>
+            <p>Visit my blog @ <a href="https://www.linkedin.com/newsletters/7112204275157458945/" target="_blank">LinkedIn</a></p>
             <p>Email: sarath.haridas@gmail.com</p>
             <p>Phone: +1 613-324-1352</p>
             <p>Location: Ottawa, ON </p>
