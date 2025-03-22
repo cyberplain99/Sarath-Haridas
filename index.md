@@ -29,8 +29,8 @@
             <h2>Projects</h2>
             <p>Details of key projects showcasing my expertise:</p>
             <ul>
-                <li><strong>Enterprise Vulnerability Management Standards Development & Operations</strong>Leading the vulnerability management program with 30k+ assets across on-prem & cloud. Developed the vulnerability management standard for the organisation.</li>
-                <li>Network Segmentation Design for manufacturing company including OT networks</li>
+                <li><strong>Enterprise Vulnerability Management Standards Development & Operations</strong> - Spearheading the vulnerability management program for over 30,000 assets across on-premises and cloud environments. Developed the organization's standardized vulnerability management framework to enhance security and compliance.</li>
+                <li><strong>Secure Network Segmentation for IT & OT Environments</strong> - Led the design and implementation of a network segmentation strategy for a U.S.-based enterprise, incorporating Operational Technology (OT) and IT networks. The project aimed to enhance security, minimize attack surfaces, and enforce Zero Trust principles while maintaining operational efficiency.
                 <li>Global network & security transition project for a US manufacturing company</li>
                 <li>Firewall migration and implementations for a Canadian organisation</li>
                 <li>Acalvio Deception Tool Architecture & Implementation</li>
