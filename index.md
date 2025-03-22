@@ -43,7 +43,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
         </section>
         <section class="Tools-used">
     <ul>
-    <h2>Cybersecurity Tools & Technologies</h2>
+<h2>Cybersecurity Tools & Technologies</h2>
     <li> Vulnerability Management – Rapid7 Insight VM, Insight Cloud Sec (Cloud Security) & Nessus </li>
     <li> Attack Surface Management – Rapid7 Surface Command </li>
     <li> Application Security – Rapid7 Insight AppSec, Postman & Burp Suite </li>  
