@@ -31,7 +31,7 @@
             <ul>
                 <li><strong>Enterprise Vulnerability Management Program: Standardization & Implementation</strong> - Spearheading the vulnerability management program for over 30,000 assets across on-premises and cloud environments. Developed the organization's standardized vulnerability management framework to enhance security and compliance.</li>
                 <li><strong>Secure Network Segmentation for IT & OT Environments</strong> - Led the design and implementation of a network segmentation strategy for a U.S.-based enterprise, incorporating Operational Technology (OT) and IT networks. The project aimed to enhance security, minimize attack surfaces, and enforce Zero Trust principles while maintaining operational efficiency.
-                <li>Global network & security transition project for a US manufacturing company</li>
+                <li><strong>Global network & security transition project for a US manufacturing company</strong> - Worked on the design for transforming a customer network by the implementation of Fortinet firewalls with SDWAN including all security features across in 200+ sites across the globe. Extensive experience in configuration of Forti manager templates, performing the cutovers and troubleshooting FortiGate issues including SDWAN, security profile etc.</li>
                 <li>Firewall migration and implementations for a Canadian organisation</li>
                 <li>Acalvio Deception Tool Architecture & Implementation</li>
                 <li>Security Policy Management tool design and implementation</li>
