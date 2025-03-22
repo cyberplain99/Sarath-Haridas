@@ -1,2 +1,2 @@
-# Sarath-Haridas-cybersecurity-portfolio
+# Sarath Haridas
 Sarath's cyber security portfolio 
