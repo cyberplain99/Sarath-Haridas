@@ -97,8 +97,7 @@
     <div class="container">
         <section class="about">
             <h2>About Me</h2>
-            <p>A CISSP certified cybersecurity professional with extensive experience in designing, implementing, and managing security frameworks and solutions for enterprises. Expertise spans across security architecture, cloud security, vulnerability management, network security and risk mitigation. Proven track record of developing innovative security solutions to safeguard critical systems and data, reduce threats, and ensure compliance with industry regulations. Adept at collaborating with cross-functional teams to design scalable security infrastructures that support business objectives while ensuring robust protection against emerging cyber threats.
-Passionate about continuous learning and applying best practices to stay ahead in the ever-changing cybersecurity domain.</p>
+            <p>A CISSP-certified cybersecurity professional with extensive experience in designing, implementing, and managing security frameworks for enterprises. Skilled in security architecture, cloud security, vulnerability management, network security, and risk mitigation. Proven ability to develop and deploy innovative security solutions that protect critical systems, reduce threats, and ensure regulatory compliance. Experienced in working across various security roles, including managed security services, SOC operations, and in-house cybersecurity teams. Passionate about continuous learning and leveraging industry best practices to stay ahead in the ever-evolving cybersecurity landscape.</p>
         </section>
         <section class="Skills">
             <h2>Skills</h2>
@@ -106,7 +105,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
                 <li>Security Architecture</li>
                 <li>Vulnerability Management</li>
                 <li>Network Security</li>
-                <li>Cloud Security - AWS</li>
+                <li>Cloud Security</li>
                 <li>Frameworks & Standards - NIST, ISO & PCI </li>
                 <li>OT Security</li>
             </ul>
@@ -116,7 +115,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
             <p>Details of key projects showcasing my expertise:</p>
             <ul>
                 <li><strong>Enterprise Security Architecture Design and Implementation</strong> <p>Led the design and implementation of an enterprise-wide security architecture for a large organization, focusing on enhancing network security, access control, and threat management. The project involved developing a comprehensive security framework, selecting appropriate security solutions (such as firewalls, SIEM, and endpoint protection), and integrating them across multiple platforms. Collaborated closely with cross-functional teams to ensure alignment with business objectives, regulatory requirements, and best practices in security. Conducted risk assessments, defined security policies, and provided guidance on securing the infrastructure, while ensuring scalability and future-proofing the architecture.</p></li>
-                <li><strong>Enterprise Vulnerability Management Program: Standardization & Implementation</strong> <p>Spearheading the vulnerability management program for over 30,000 assets across on-premises and cloud environments. Developed the organization's standardized vulnerability management framework to enhance security and compliance.</p></li>
+                <li><strong>Enterprise Vulnerability Management Program: Standardization & Implementation</strong> <p>Spearheading the vulnerability management program for over 30,000 assets across on-premises and cloud environments. Developed the organization's standardized vulnerability management standards to enhance security and compliance.</p></li>
                <li><strong>Secure Network Segmentation for IT & OT Environments</strong> <p>Led the design and implementation of a network segmentation strategy for a U.S.-based enterprise, incorporating Operational Technology (OT) and IT networks. The project aimed to enhance security, minimize attack surfaces, and enforce Zero Trust principles while maintaining operational efficiency.</p></li> 
                <li><strong>Global network & security transition project for a US manufacturing company</strong> <p> Worked on the design for transforming a customer network by the implementation of Fortinet firewalls with SDWAN including all security features across in 200+ sites across the globe. Extensive experience in configuration of Forti manager templates, performing the cutovers and troubleshooting FortiGate issues including SDWAN, security profile etc.</p></li>
                 <li><strong>Firewall Replacement and Refresh Projects for Canadian Client</strong> <p>Led the technical design and execution of two critical firewall projects for a Canadian company. The first project involved replacing Cisco ASA firewalls with Palo Alto firewalls, which included detailed planning of the existing infrastructure, traffic review, developing the technical approach, and coordinating the implementation plan. Additionally, worked closely with stakeholders throughout the process and managed the cutover activities. The second project focused on refreshing FortiGate firewalls, where outdated models were replaced with new hardware. This project also involved extensive planning, traffic assessment, stakeholder coordination, and successful cutover execution.</p></li>
