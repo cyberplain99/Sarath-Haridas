@@ -50,17 +50,14 @@
         .Contact p {
             font-size: 1.1em;
         }
-          ul {
-            list-style: none;
-            padding: 0;
+        .fab, .fas {
+            font-size: 24px;
+            color: #3498db;  /* Icon color */
+            margin-right: 10px;
         }
 
-        ul li {
-            margin: 5px 0;
-        }
-
-        .Contact p {
-            font-size: 1.1em;
+        .fab:hover, .fas:hover {
+            color: #2ecc71;  /* Hover color */
         }
         </style>
  </head>
