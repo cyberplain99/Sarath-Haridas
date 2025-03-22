@@ -33,9 +33,7 @@
                 <li>Network Segmentation Design for manufacturing company including OT networks</li>
                 <li>Global network & security transition project for a US manufacturing company</li>
                 <li>Firewall migration and implementations for a Canadian organisation</li>
-                
                 <li>Acalvio Deception Tool Architecture & Implementation</li>
-                <p>Lead the technical architecture design and implementation of Acalvio deception tool in a customer environment. Hand on work in planning the amount and type of decoys and actual implementation of the decoys, integrating the solution with SIEM and preparing documentation were the tasks performed as part of the team.</p>
                 <li>Security Policy Management tool design and implementation</li>
             </ul>
         </section>
