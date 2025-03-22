@@ -7,7 +7,9 @@
 <body>
     <header>
         <h1>Sarath Haridas</h1>
-        <p>Security Architecture | Cloud Security | Vulnerability Management | Network Security</p>
+        <p>A highly skilled and results-driven cybersecurity professional with extensive experience in designing, implementing, and managing security frameworks for enterprises. Expertise spans across cloud security, vulnerability management, security architecture, and risk mitigation. Proven track record of developing innovative security solutions to safeguard critical systems and data, reduce threats, and ensure compliance with industry regulations. Adept at collaborating with cross-functional teams to design scalable security infrastructures that support business objectives while ensuring robust protection against emerging cyber threats.
+
+Skilled in conducting risk assessments, implementing security controls, and delivering security training to organizations, empowering them to navigate the evolving threat landscape. Passionate about continuous learning and applying best practices to stay ahead in the ever-changing cybersecurity domain.</p>
     </header>
     <div class="container">
         <section class="about">
