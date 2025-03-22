@@ -15,7 +15,7 @@
 
 Skilled in conducting risk assessments, implementing security controls, and delivering security training to organizations, empowering them to navigate the evolving threat landscape. Passionate about continuous learning and applying best practices to stay ahead in the ever-changing cybersecurity domain.</p>
         </section>
-        <section class="skills">
+        <section class="Skills">
             <h2>Skills</h2>
             <ul>
                 <li>Security Architecture</li>
@@ -26,7 +26,7 @@ Skilled in conducting risk assessments, implementing security controls, and deli
                 <li>OT Security</li>
             </ul>
         </section>
-        <section class="projects">
+        <section class="Projects">
             <h2>Projects</h2>
             <p>Details of key projects showcasing my expertise:</p>
             <ul>
@@ -42,7 +42,14 @@ Skilled in conducting risk assessments, implementing security controls, and deli
                 <li><strong>Vulnerability Management Solution Implementation for European Organization</strong> - Led the implementation of a vulnerability management solution for a European organization, which included deploying devices and configuring scans tailored to the security team’s requirements. Additionally, managed the solution in collaboration with the CISO organization, ensuring its effective operation and alignment with security objectives.</li>
             </ul>
         </section>
-        <section class="contact">
+        <section class="Certifications">
+        <h2>Certified Information Systems Security Professional (CISSP)</h2>
+        <h2>AWS Certified Solutions Architect – Associate</h2>
+        <h2>CompTIA Security+ ce Certification</h2>
+        <h2>Google Cloud Certified - Cloud Digital Leader</h2>
+        <h2>Zscaler Zero Trust Certified Architect (ZTCA)</h2>
+        </section>
+        <section class="Contact">
             <h2>Contact</h2>
             <p>Connect with me @ <a href="https://www.linkedin.com/in/sarath-haridas-cissp-87122147" target="_blank">LinkedIn</a></p>
             <p>Email: sarath.haridas@gmail.com</p>
