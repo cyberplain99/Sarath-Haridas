@@ -29,7 +29,7 @@
             <h2>Projects</h2>
             <p>Details of key projects showcasing my expertise:</p>
             <ul>
-                <li>Enterprise Vulnerability Management Standards Development & Operations</li>
+                <li><strong>Enterprise Vulnerability Management Standards Development & Operations</strong>Leading the vulnerability management program with 30k+ assets across on-prem & cloud. Developed the vulnerability management standard for the organisation.</li>
                 <li>Network Segmentation Design for manufacturing company including OT networks</li>
                 <li>Global network & security transition project for a US manufacturing company</li>
                 <li>Firewall migration and implementations for a Canadian organisation</li>
