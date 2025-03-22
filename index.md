@@ -5,7 +5,6 @@
  </head>
 <body>
     <header>
-        <h1>Sarath Haridas</h1>
         <img src="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/Sarath-2025.jpeg?raw=true" alt="Portfolio Image" width="200" />
         </header>
     <div class="container">
