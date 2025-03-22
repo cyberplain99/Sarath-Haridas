@@ -44,6 +44,7 @@
             <p>Connect with me @ <a href="https://www.linkedin.com/in/sarath-haridas-cissp-87122147" target="_blank">LinkedIn</a></p>
             <p>Email: sarath.haridas@gmail.com</p>
             <p>Phone: +1 613-324-1352</p>
+            <p>Location: Ottawa, ON </p>
         </section>
     </div>
 </body>
