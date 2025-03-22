@@ -157,7 +157,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
             <h2>Contact</h2>
             <p>Connect with me @ <a href="https://www.linkedin.com/in/sarath-haridas-cissp-87122147" target="_blank"><i class="fa-brands fa-linkedin"></i></a></p>
             <p><a href="mailto:sarath.haridas@gmail.com"><i class="fa fa-envelope"></i> sarath.haridas@gmail.com</a></p>
-            <p><i class="fa-solid fa-phone"></i>+1 613-324-1352</p>
+            <p><i class="fa-solid fa-phone"></i> +1 613-324-1352</p>
             <p>Location: Ottawa, ON </p>
             <p>Visit my blog @ <a href="https://www.linkedin.com/newsletters/7112204275157458945/" target="_blank">Cyberplain</a></p>
             <p>Find my resume @ <a href="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/SARATH_HARIDAS_Resume.pdf" target="_blank">Sarath_Haridas</a></p>
