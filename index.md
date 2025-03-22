@@ -61,6 +61,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
         <h2>Certifications</h2>
         <li>Certified Information Systems Security Professional (CISSP)</li>
         <li>AWS Certified Solutions Architect – Associate</li>
+        <li> Palo Alto Networks Certified Network Security Engineer </li> 
         <li>CompTIA Security+ ce Certification</li>
         <li>Google Cloud Certified - Cloud Digital Leader</li>
         <li>Zscaler Zero Trust Certified Architect (ZTCA)</li>
