@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1>Sarath Haridas</h1>
-        <p>Security Architect | Cloud Security | Vulnerability Management | Network Security</p>
+        <p>Security Architecture | Cloud Security | Vulnerability Management | Network Security</p>
     </header>
     <div class="container">
         <section class="about">
@@ -29,9 +29,12 @@
             <h2>Projects</h2>
             <p>Details of key projects showcasing your expertise:</p>
             <ul>
-                <li>Cloud Security Hardening for Enterprise X</li>
-                <li>Vulnerability Management Framework Implementation</li>
-                <li>Zero Trust Security Model for Financial Institution</li>
+                <li>Enterprise Vulnerability Management Standards Development & Operations</li>
+                <li>Network Segmentation Design for manufacturing company including OT networks</li>
+                <li>Global network & security transition project for a US manufacturing company</li>
+                <li>Firewall migration and implementations for a Canadian organisation</li>
+                <li>Acalvio Deception Tool Architecture & Implementation</li>
+                <li>Security Policy Management tool design and implementation</li>
             </ul>
         </section>
         <section class="contact">
