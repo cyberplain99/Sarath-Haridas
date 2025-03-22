@@ -43,11 +43,12 @@ Skilled in conducting risk assessments, implementing security controls, and deli
             </ul>
         </section>
         <section class="Certifications">
-        <h2>Certified Information Systems Security Professional (CISSP)</h2>
-        <h2>AWS Certified Solutions Architect – Associate</h2>
-        <h2>CompTIA Security+ ce Certification</h2>
-        <h2>Google Cloud Certified - Cloud Digital Leader</h2>
-        <h2>Zscaler Zero Trust Certified Architect (ZTCA)</h2>
+        <h2>Certifications</h2>
+        <li>Certified Information Systems Security Professional (CISSP)</li>
+        <li>AWS Certified Solutions Architect – Associate</li>
+        <li>CompTIA Security+ ce Certification</li>
+        <li>Google Cloud Certified - Cloud Digital Leader</li>
+        <li>Zscaler Zero Trust Certified Architect (ZTCA)</li>
         </section>
         <section class="Contact">
             <h2>Contact</h2>
