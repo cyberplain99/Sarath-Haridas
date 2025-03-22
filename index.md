@@ -3,6 +3,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            text-align: center;
+            padding: 20px 0;
+        }
+        
+        header img {
+            border-radius: 50%;
+            border: 5px solid #fff;
+        }
+         
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .about, .Skills, .Projects, .Tools-used, .Certifications, .Contact {
+            margin-bottom: 40px;
+        }
+          ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 5px 0;
+        }
+
+        .Contact p {
+            font-size: 1.1em;
+        }
+          ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 5px 0;
+        }
+
+        .Contact p {
+            font-size: 1.1em;
+        }
+        </style>
  </head>
 <body>
     <header>
@@ -76,3 +136,6 @@ Passionate about continuous learning and applying best practices to stay ahead i
             <p>Location: Ottawa, ON </p>
             <p>Find my resume @ <a href="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/SARATH_HARIDAS_Resume.pdf" target="_blank">Sarath_Haridas</a></p>
         </section>
+ </div>
+</body>
+</html>
