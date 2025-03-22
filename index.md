@@ -42,6 +42,21 @@ Skilled in conducting risk assessments, implementing security controls, and deli
                 <li><strong>Vulnerability Management Solution Implementation for European Organization</strong> - Led the implementation of a vulnerability management solution for a European organization, which included deploying devices and configuring scans tailored to the security team’s requirements. Additionally, managed the solution in collaboration with the CISO organization, ensuring its effective operation and alignment with security objectives.</li>
             </ul>
         </section>
+        <section class="Tools used">
+    <h2>Tools worked on</h2>
+    <li> Vulnerability Management – Rapid7 Insight VM, Insight Cloud Sec (Cloud Security) & Nessus </li>
+    <li> Attack Surface Management – Rapid7 Surface Command </li>
+    <li> Application Security – Rapid7 Insight AppSec, Postman & Burp Suite </li>  
+    <li> EDR - Microsoft Defender for Endpoint </li>
+    <li> Digital Forensics - Rapid7 Velociraptor </li>
+    <li> Deception – Acalvio & Rapid7 Honeypots </li>
+    <li> Firewalls - FortiGate, Palo Alto and Cisco </li>
+    <li> Web Proxies - Bluecoat & Zscaler </li>
+    <li> WAF – Radware </li>
+    <li> DDoS - Radware </li>
+    <li> Exposure Management – Skybox, Algosec </li>
+    <li> Threat Hunting - Microsoft Defender for O365 </li>
+     </section>
         <section class="Certifications">
         <h2>Certifications</h2>
         <li>Certified Information Systems Security Professional (CISSP)</li>
