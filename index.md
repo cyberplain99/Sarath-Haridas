@@ -39,8 +39,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
                 <li><strong>Ransomware Recovery and Incident Response</strong> - Led recovery and incident response efforts for a ransomware attack that impacted an organization’s IT infrastructure. My responsibilities included initial assesment & containment, data recovery & restoration, post incident analysis and security enhancements.</li>
                 <li><strong>Comprehensive Security Solution Implementation and Integration</strong> - Led the technical architecture design and implementation of multiple security tools within a customer environment, including the Skybox Security Policy Management solution, DDoS protection, Acalvio deception tool, and remote access VPN. Responsibilities included planning and designing the security solution, implementing the systems, integrating each solution with the SIEM, and preparing comprehensive documentation. The project also involved ensuring seamless integration and configuration of the various security solutions to enhance overall network defense and security posture.</li>
                 <li><strong>Vulnerability Management Solution Implementation for European Organization</strong> - Led the implementation of a vulnerability management solution for a European organization, which included deploying devices and configuring scans tailored to the security team’s requirements. Additionally, managed the solution in collaboration with the CISO organization, ensuring its effective operation and alignment with security objectives.</li>
-            </ul>
-        </section>
+    
         <section class="Tools used">
     <h2>Cybersecurity Tools & Technologies</h2>
     <li> Vulnerability Management – Rapid7 Insight VM, Insight Cloud Sec (Cloud Security) & Nessus </li>
