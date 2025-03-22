@@ -73,6 +73,7 @@ Passionate about continuous learning and applying best practices to stay ahead i
             <p>Email: sarath.haridas@gmail.com</p>
             <p>Phone: +1 613-324-1352</p>
             <p>Location: Ottawa, ON </p>
+            <p>Find my resume @ <a href="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/SARATH_HARIDAS_Resume.pdf" target="_blank">Sarath_Haridas</a></p>
         </section>
     </div>
 </body>
