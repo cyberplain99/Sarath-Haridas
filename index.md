@@ -159,7 +159,7 @@
             <p><i class="fa-solid fa-phone"></i> +1 613-324-1352</p>
             <p><i class="fa-solid fa-location-pin"></i> Ottawa, ON </p>
             <p><i class="fa-solid fa-pen"></i><a href="https://www.linkedin.com/newsletters/7112204275157458945/" target="_blank">Cyberplain</a></p>
-            <p><i class="fa-solid fa-file-pdf"></i><a href="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/SARATH_HARIDAS_Resume.pdf" target="_blank">Sarath_Haridas</a></p>
+            <p><li>Find my resume @</li><i class="fa-solid fa-file-pdf"></i><a href="https://github.com/cyberplain99/cybersecurity-portfolio/blob/main/SARATH_HARIDAS_Resume.pdf" target="_blank">Sarath_Haridas</a></p>
         </section>
  </div>
 </body>
